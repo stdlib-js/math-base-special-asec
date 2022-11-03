@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import asec from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asec@deno/mod.js';
+import asec from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asec@v0.0.1-deno/mod.js';
 ```
 
 #### asec( x )
@@ -71,7 +71,7 @@ v = asec( 0.5 );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import asec from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asec@deno/mod.js';
+import asec from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asec@v0.0.1-deno/mod.js';
 
 var x = linspace( 1.0, 10.0, 100 );
 
