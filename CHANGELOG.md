@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-21)
+## Unreleased (2025-03-29)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`dcb628f`](https://github.com/stdlib-js/stdlib/commit/dcb628f8736fb6b1b3ba3f37f42758078a9ad5dc) - **bench:** update `randu` to `uniform` for consistency [(#6041)](https://github.com/stdlib-js/stdlib/pull/6041) _(by Harsh)_
 -   [`850472b`](https://github.com/stdlib-js/stdlib/commit/850472b35f4cf47cab44047acd94a9120d6d5b77) - **docs:** replace manual `for` loop in examples [(#6182)](https://github.com/stdlib-js/stdlib/pull/6182) _(by Karan Anand)_
 -   [`9708f63`](https://github.com/stdlib-js/stdlib/commit/9708f637cb250d194c0c86cdb4605bb15c95e4a5) - **bench:** refactor benchmarks in `math/base/special/asec` [(#5959)](https://github.com/stdlib-js/stdlib/pull/5959) _(by Gururaj Gurram, Athan Reines)_
 -   [`c13062e`](https://github.com/stdlib-js/stdlib/commit/c13062e5b90cbe28ec62f0b690211bd14b626cf3) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
@@ -29,10 +30,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
 
